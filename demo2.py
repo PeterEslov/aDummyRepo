@@ -1,6 +1,8 @@
 import zipfile
 import shutil
 
+# NOTE only a dummy Python file, dont use it.
+
 print("Nu kör vi så det ryker....")
 # NOTE comment out each section before you run it 
 
